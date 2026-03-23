@@ -395,8 +395,8 @@ function exercise_18() {
       {style: "currency", currency: "[proper currency string]"}
 
        Hint: You probably don't know the string arguments to use to do this for Russia.
-             Go to Google.com and search "Intl.NumberFormat argument for Greek format"
-             Then also look up "Intl.NumberFormat option for greek currency"
+             Go to Google.com and search "Intl.NumberFormat argument for Russian format"
+             Then also look up "Intl.NumberFormat option for Russian currency"
              
              You will forget things all the time in this job, even as an expert.
              There's a lot of information to keep in your head. 
@@ -427,7 +427,7 @@ function exercise_19() {
     Date Arithmetic: 
 
     1. Create a variable to hold a new Date object for today's date.
-    2. Create a variable to hold a new Date object for a future date in 2025
+    2. Create a variable to hold a new Date object for a future date sometime next year
     3. Find the time difference between the future date and the current date
     4. Convert this time difference to days
     5. Log the day difference to the console
